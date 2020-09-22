@@ -10,7 +10,7 @@ public class GitTestDemo {
     /**
      * 分支1
      */
-    public void test(){
+    public void test() {
         System.out.println("分支1");
     }
 }
